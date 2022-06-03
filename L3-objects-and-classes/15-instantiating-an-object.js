@@ -13,6 +13,5 @@ let riley = new Hero('Riley', 'coach');
 
 taylor.name;
 riley.role;
-
 taylor.introduce();
 riley.introduce();
